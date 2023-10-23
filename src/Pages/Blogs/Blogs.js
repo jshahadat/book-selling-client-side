@@ -3,6 +3,7 @@ import React from 'react';
 const Blogs = () => {
     return (
         <div>
+            {/* <h1>kjhgfdxzsd</h1> */}
             <div className='border-4 p-3 lg:p-10 border-red-400 rounded-2xl my-5'>
                 <div className='mb-4'>
                     <img src="https://i.ibb.co/HKqgmvD/react.jpg" className='w-full lg:w-3/12' alt="" />
